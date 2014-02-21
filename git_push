@@ -11,4 +11,4 @@ git commit -m "First commit"
 
     Push to github: 
 
-git push -u origin master
+git push -uf origin master
