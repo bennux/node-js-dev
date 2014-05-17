@@ -1,0 +1,26 @@
+{
+  "name": "demo_app_node_class",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bennux/node-js-dev",
+  "description": "first node.js project class at allrecipes.com with Gordon",
+  "main": "bower.json",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "node.js",
+    "bower"
+  ],
+  "authors": [
+    "benny schulz"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
